@@ -2,6 +2,8 @@
 
 ![](https://miro.medium.com/v2/resize:fit:1200/1*7cMfenu76BZCzdKWCfBABA.png)
 
+**Disclaimer:** The use of LSTMs or any other machine learning model for stock price prediction should be considered as a tool to assist in decision-making, not as a guaranteed predictor of future returns. Investors should conduct thorough research, consider multiple factors, and exercise caution when relying on machine learning models for investment decisions.
+
 ## What Are Recurrent Neural Networks (RNNs)?
 
 RNNs are a class of neural networks designed to recognize patterns in sequences of data, such as time series, text, or speech. Unlike traditional feedforward neural networks, RNNs have connections that form directed cycles, allowing information to persist across steps in a sequence. This architecture enables RNNs to maintain a form of memory, making them adept at tasks where context and sequence order are crucial.
