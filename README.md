@@ -272,9 +272,8 @@ The printed predictions versus actual values provide a glimpse into the model's 
 Several strategies can be employed to enhance the model's performance:
 
 1. **Hyperparameter Tuning:** Experiment with different hidden sizes, number of layers, learning rates, and dropout rates to find the optimal configuration.
-2. **Feature Engineering:** Incorporate additional features like technical indicators (e.g., moving averages, RSI) to provide more context.
-3. **Sequence Length Adjustment:** Fine-tune the sequence length to balance context and computational efficiency.
-4. **Regularization Techniques:** Implement techniques like weight decay or early stopping to prevent overfitting.
+2. **Sequence Length Adjustment:** Fine-tune the sequence length to balance context and computational efficiency.
+3. **Regularization Techniques:** Implement techniques like weight decay or early stopping to prevent overfitting.
 
 ## Limitations of LSTMs for Real-World Stock Price Prediction
 
