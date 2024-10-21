@@ -288,6 +288,3 @@ As the field of machine learning continues to advance, the principles and techni
 - [PyTorch Lightning Documentation](https://pytorch-lightning.readthedocs.io/)
 - [StandardScaler Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
 
-# Tags
-
-RNN, LSTM, Neural Networks, Deep Learning, PyTorch, Time Series, Machine Learning, Data Science
