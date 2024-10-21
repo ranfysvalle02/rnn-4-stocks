@@ -302,9 +302,8 @@ To assess the performance of LSTMs in stock price prediction, it's essential to 
 
 Beyond LSTMs, other deep learning architectures can be considered for financial forecasting:
 
-* **Convolutional Neural Networks (CNNs):** CNNs are well-suited for processing structured data like financial time series, especially when incorporating technical indicators. They can capture local patterns and features within the data.
-* **Attention Mechanisms:** Attention mechanisms can be integrated with LSTMs or CNNs to focus on specific parts of the input sequence that are most relevant for prediction. This can improve performance, especially when dealing with long sequences.
-* **Generative Adversarial Networks (GANs):** GANs can generate synthetic financial data, which can be used to augment training datasets and improve model robustness.
+* **[Convolutional Neural Networks (CNNs)](https://github.com/ranfysvalle02/shapeclassifer-cnn/):** CNNs are well-suited for processing structured data like financial time series, especially when incorporating technical indicators. They can capture local patterns and features within the data.
+* **[Attention Mechanisms](https://github.com/ranfysvalle02/ai-self-attention/):** Attention mechanisms can be integrated with LSTMs or CNNs to focus on specific parts of the input sequence that are most relevant for prediction. This can improve performance, especially when dealing with long sequences.
 
 By carefully considering these limitations, employing appropriate evaluation metrics, and exploring alternative architectures, practitioners can enhance the effectiveness of deep learning models for stock price prediction.
 
