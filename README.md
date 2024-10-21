@@ -285,6 +285,4 @@ As the field of machine learning continues to advance, the principles and techni
 # References
 
 - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-- [PyTorch Lightning Documentation](https://pytorch-lightning.readthedocs.io/)
-- [StandardScaler Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
 
